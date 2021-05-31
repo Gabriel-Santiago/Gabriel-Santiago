@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Gabriel Santiago <img src="{https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white}"/>  
+Gabriel Santiago https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 
 <!--
 **Gabriel-Santiago/Gabriel-Santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
