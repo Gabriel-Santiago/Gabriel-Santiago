@@ -31,9 +31,8 @@
 
 ---
 ### You can find in me in the web 🌍
-[<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://img.shields.io/badge/https://www.linkedin.com/in/gabriel-santiago-05867b1b1/?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Gabriel | Discord" width="22px" src="	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][Discord]
-
 <br/>
 ---
 
