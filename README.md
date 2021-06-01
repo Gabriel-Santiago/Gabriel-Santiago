@@ -30,12 +30,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### You can find in me in the web 🌍
-<p>
-<a>[<img align="left" alt="Gabriel | LinkedIn" width="22px" href="https://www.linkedin.com/in/gabriel-santiago-05867b1b1/"/>][Linkedin]</a>
-<img align="left" alt="Gabriel | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/_bielsantiago/"/>
- </p>
-<br/>
 
 ---
 
