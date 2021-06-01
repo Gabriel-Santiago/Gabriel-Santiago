@@ -28,6 +28,8 @@
 
 </p>
 
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Santiago&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/Gabriel-Santiago)
+---
