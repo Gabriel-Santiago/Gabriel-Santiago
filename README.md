@@ -31,8 +31,8 @@
 
 ---
 ### You can find in me in the web 🌍
-<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/gabriel-santiago-05867b1b1/"/>
-<img align="left" alt="Gabriel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/_bielsantiago/"/>
+<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/gabriel-santiago-05867b1b1/"/>
+<img align="left" alt="Gabriel | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/_bielsantiago/"/>
 <br/>
 
 ---
