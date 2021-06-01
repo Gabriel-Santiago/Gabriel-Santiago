@@ -1,6 +1,14 @@
-### Hi there 👋
-
-Gabriel Santiago
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Gabriel Santiago :wave:
+    <br><br>
+    I believe in a world where Books can solve any and all problems :grin:
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+  </samp>
+</p>
 
 <!--
 **Gabriel-Santiago/Gabriel-Santiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
