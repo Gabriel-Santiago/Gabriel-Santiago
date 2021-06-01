@@ -30,7 +30,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-santiago-05867b1b1/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/_bielsantiago/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://t.me/Gabriel Santiago"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
+</p>
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Santiago&show_icons=true&hide_border=true)
