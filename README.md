@@ -21,6 +21,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top; margin:4px"; "border-radius=50%">
 
----
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
