@@ -27,3 +27,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Santiago&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/Gabriel-Santiago)
