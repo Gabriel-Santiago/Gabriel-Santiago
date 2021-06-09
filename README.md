@@ -24,14 +24,6 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 </p>
 
----
-
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-
----
 
 <p> 
   <i> Let's connect and chat! :incoming_envelope: </i>
@@ -44,7 +36,9 @@
 </p>
 
 ---
+### Dev Info
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Santiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Santiago&show_icons=true&hide_border=true)
 
 ---
